@@ -3,7 +3,7 @@
 
 
 Some things about me:
-- :microscope: I’m currently working on a T12 compatable programable soldering station and a 4-20 mA compatable datalogger
-- :computer: I’m currently learning Python, C++, web design, and CFD
+- :microscope: I’m currently working on a CAN Bus Distributed Sensor & Actuator Control System
+- :computer: I’m currently learning Python, C++, and CFD
 
 
